@@ -1,6 +1,6 @@
 {
-  "name": "react-native-hour-format",
-  "version": "1.1.3",
+  "name": "@sgiggles/react-native-hour-format",
+  "version": "1.0.0",
   "description": "Get time format used in user device",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/softwaremansion/react-native-hour-format.git"
+    "url": "git+https://github.com/sgiggles/react-native-hour-format.git"
   },
   "keywords": [
     "react-native",
@@ -21,9 +21,9 @@
   "author": "Miron Pawlik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/softwaremansion/react-native-hour-format/issues"
+    "url": "https://github.com/sgiggles/react-native-hour-format/issues"
   },
-  "homepage": "https://github.com/softwaremansion/react-native-hour-format#readme",
+  "homepage": "https://github.com/sgiggles/react-native-hour-format#readme",
   "peerDependencies": {
     "react-native": ">=0.42.0"
   }
